@@ -9,8 +9,12 @@ production/maintenance scheduling optimization (MILP, Gurobi/OR-Tools/Pyomo).
 
 | Problem | Title | Solution |
 |---------|---------------------------------|----------------------------------------|
+| 0 (practice, not official) | Sum of odd squares | [problem_000.py](problem_000.py) |
 | 1 | Multiples of 3 or 5 | [problem_001.py](problem_001.py) |
 | 2 | Even Fibonacci numbers | [problem_002.py](problem_002.py) |
+| 3 | Largest prime factor | [problem_003.py](problem_003.py) |
+| 4 | Largest palindrome product | [problem_004.py](problem_004.py) |
+| 5 | Smallest multiple | [problem_005.py](problem_005.py) |
 
 ## Running a solution
 
