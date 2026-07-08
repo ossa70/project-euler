@@ -17,6 +17,7 @@ production/maintenance scheduling optimization (MILP, Gurobi/OR-Tools/Pyomo).
 | 5 | Smallest multiple | [problem_005.py](problem_005.py) |
 | 6 | Sum square difference | [problem_006.py](problem_006.py) |
 | 7 | 10001st prime | [problem_007.py](problem_007.py) |
+| 8 | Largest product in a series | [problem_008.py](problem_008.py) |
 
 ## Running a solution
 
