@@ -19,6 +19,7 @@ production/maintenance scheduling optimization (MILP, Gurobi/OR-Tools/Pyomo).
 | 7 | 10001st prime | [problem_007.py](problem_007.py) |
 | 8 | Largest product in a series | [problem_008.py](problem_008.py) |
 | 9 | Special Pythagorean triplet | [problem_009.py](problem_009.py) |
+| 10 | Summation of primes | [problem_010.py](problem_010.py) |
 
 ## Running a solution
 
