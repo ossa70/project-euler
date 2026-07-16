@@ -21,6 +21,7 @@ production/maintenance scheduling optimization (MILP, Gurobi/OR-Tools/Pyomo).
 | 9 | Special Pythagorean triplet | [problem_009.py](problem_009.py) |
 | 10 | Summation of primes | [problem_010.py](problem_010.py) |
 | 11 | Largest product in a grid | [problem_011.py](problem_011.py) |
+| 12 | Highly divisible triangular number | [problem_012.py](problem_012.py) |
 
 ## Running a solution
 
