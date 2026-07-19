@@ -25,6 +25,7 @@ production/maintenance scheduling optimization (MILP, Gurobi/OR-Tools/Pyomo).
 | 13 | Large sum | [problem_013.py](problem_013.py) | Avoiding shadowing Python built-ins |
 | 14 | Longest Collatz sequence | [problem_014.py](problem_014.py) | Recursion with memoization; dict vs. list for lookups; Python's recursion limit |
 | 15 | Lattice paths | [problem_015.py](problem_015.py) | Dynamic programming (build from a known base case); recognizing when brute force is infeasible; `functools.lru_cache` |
+| 16 | Power digit sum | [problem_016.py](problem_016.py) | Python's native big-integer support; digit-summing via string conversion |
 
 ## Running a solution
 
