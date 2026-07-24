@@ -28,6 +28,7 @@ production/maintenance scheduling optimization (MILP, Gurobi/OR-Tools/Pyomo).
 | 16 | Power digit sum | [problem_016.py](problem_016.py) | Python's native big-integer support; digit-summing via string conversion |
 | 17 | Number letter counts | [problem_017.py](problem_017.py) | Modular string-building with reusable lookups; DRY refactor by generalizing a helper's scope |
 | 18 | Maximum path sum I | [problem_018.py](problem_018.py) | Bottom-up dynamic programming on a triangle; shallow vs. deep copies |
+| 19 | Counting Sundays | [problem_019.py](problem_019.py) | `datetime`/standard library vs. hand-rolled calendar logic; writing general vs. input-specific boundary conditions |
 
 ## Running a solution
 
