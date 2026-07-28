@@ -30,6 +30,7 @@ production/maintenance scheduling optimization (MILP, Gurobi/OR-Tools/Pyomo).
 | 18 | Maximum path sum I | [problem_018.py](problem_018.py) | Bottom-up dynamic programming on a triangle; shallow vs. deep copies |
 | 19 | Counting Sundays | [problem_019.py](problem_019.py) | `datetime`/standard library vs. hand-rolled calendar logic; writing general vs. input-specific boundary conditions |
 | 20 | Factorial digit sum | [problem_020.py](problem_020.py) | `math.factorial`; big-integer digit-summing via string conversion |
+| 21 | Amicable numbers | [problem_021.py](problem_021.py) | Divisor-pair sums bounded by √n; excluding perfect numbers (`a ≠ b`); sets for O(1) membership checks; unifying lookup vs. computed cases |
 
 ## Running a solution
 
